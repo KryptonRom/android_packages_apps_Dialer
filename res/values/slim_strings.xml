@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 SlimRoms Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_stats_title">Statistics</string>
+    <string name="callStatsDetailTitle">Call stat details</string>
+
+    <string name="call_stats">Call statistics</string>
+    <string name="call_stats_refresh">Refresh</string>
+    <string name="activity_title_call_stats">Call statistics</string>
+
+    <string name="call_stats_nav_all">All</string>
+    <string name="call_stats_nav_incoming">Incoming</string>
+    <string name="call_stats_nav_outgoing">Outgoing</string>
+    <string name="call_stats_nav_missed">Missed</string>
+    <string name="call_stats_incoming">Incoming: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_outgoing">Outgoing: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_missed">Missed</string>
+    <string name="call_stats_missed_percent">Missed: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_header_total">Total: <xliff:g id="call_count">%s</xliff:g>, <xliff:g id="duration">%s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Total: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Start date</string>
+    <string name="call_stats_filter_to">End date</string>
+    <string name="call_stats_filter_picker_title">Filter range</string>
+
+    <string name="date_quick_selection">Quick selection</string>
+    <string name="date_qs_currentmonth">Current month</string>
+    <string name="date_qs_currentquarter">Current quarter</string>
+    <string name="date_qs_currentyear">Current year</string>
+    <string name="date_qs_lastweek">Last week</string>
+    <string name="date_qs_lastmonth">Last month</string>
+    <string name="date_qs_lastquarter">Last quarter</string>
+    <string name="date_qs_lastyear">Last year</string>
+
+    <string name="call_stats_date_filter">Adjust time range</string>
+    <string name="call_stats_reset_filter">Reset time range</string>
+    <string name="call_stats_sort_by_duration">Sort by call duration</string>
+    <string name="call_stats_sort_by_count">Sort by call count</string>
+
+    <string name="menu_add_to_blacklist">Add to blacklist</string>
+    <string name="toast_added_to_blacklist">%s added to blacklist.</string>
+
+    <!-- Near by places and google dialer -->
+    <string name="dialer_settings_label">Settings</string>
+    <string name="dialer_hint_find_contact_google">Search contacts &amp; nearby places</string>
+    <string name="call_settings_label">Call settings</string>
+    <string name="view_location_settings">View location settings</string>
+    <string name="enable_reverse_lookup">Enable caller ID by Google</string>
+    <string name="reverse_lookup_enabled">Caller ID by Google is enabled</string>
+    <string name="google_caller_id_setting_title">Caller ID by Google</string>
+    <string name="google_caller_id_setting__on">Show names for people and businesses not in my contacts.</string>
+    <string name="google_caller_id_setting__off">Off</string>
+    <string name="google_caller_id_settings_text">&lt;a href=%1$s>Caller ID by Google&lt;/a> shows names for people and businesses not in your contacts. &lt;br>&lt;br> Update the discoverability of your phone number in your &lt;a href=%2$s>Google account settings&lt;/a>. &lt;br>&lt;br> Data being used in these features is provided by Google and its licensors. &lt;br>&lt;a href=%3$s>Learn more.&lt;/a></string>
+    <string name="local_search_directory_label">Nearby places</string>
+    <string name="local_search_setting_title">Nearby places</string>
+    <string name="local_search_setting_on">Display search results for nearby places.</string>
+    <string name="local_search_setting_off">Off</string>
+    <string name="local_search_settings_text">When you search from the phone app, this feature will use your location to find nearby places that match your query, even if they are not in your contacts. &lt;br>&lt;br> Data being used in these features is provided by Google and its licensors. &lt;br>&lt;a href=%1$s>Learn more.&lt;/a> &lt;br>&lt;br> You must enable Google apps to use your phone’s location for this to work. &lt;br>&lt;a href=%2$s>Learn more.&lt;/a></string>
+
+</resources>
